@@ -2,3 +2,4 @@ hello world
 welcome to cloud DevOps
 Hi Somu
 how are you
+Welcome to bangalore
